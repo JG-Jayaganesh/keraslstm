@@ -14,10 +14,10 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+lib/*
 bin/
 include/
-share/
+share/*
 pip-selfcheck.json
 lib64/
 parts/
