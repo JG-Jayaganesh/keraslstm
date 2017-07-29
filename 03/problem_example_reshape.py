@@ -34,3 +34,5 @@ def generate_example(length, n_features, out_index):
 X, y = generate_example(25, 100, 2)
 print(X.shape)
 print(y.shape)
+print(X)
+print(y)

@@ -10,5 +10,7 @@ data = array([
 	[0.8, 0.3],
 	[0.9, 0.2],
 	[1.0, 0.1]])
+print(data)
 data = data.reshape(1, 10, 2)
+print(data)
 print(data.shape)
