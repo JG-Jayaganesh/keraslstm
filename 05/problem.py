@@ -37,6 +37,7 @@ def build_frames(size):
 # generate sequence of frames
 size = 5
 frames, right = build_frames(size)
+print ('frames: ', frames, 'right', right)
 # plot all feames
 pyplot.figure()
 for i in range(size):
